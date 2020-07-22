@@ -77,9 +77,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExAction", "ExAction\ExActi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExFunc", "ExFunc\ExFunc.csproj", "{76AEB580-2EC0-40D7-9BEA-637A1E034FA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{F5700EF8-250D-4FF9-8694-D460E623827C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{F5700EF8-250D-4FF9-8694-D460E623827C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq01", "Linq01\Linq01.csproj", "{59E494C6-5D90-4C67-A14B-716BCE9B849B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq01", "Linq01\Linq01.csproj", "{59E494C6-5D90-4C67-A14B-716BCE9B849B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeLinq", "ExeLinq\ExeLinq.csproj", "{FA226A3D-FB9C-45F9-B86C-0A58A1458F10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{59E494C6-5D90-4C67-A14B-716BCE9B849B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E494C6-5D90-4C67-A14B-716BCE9B849B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E494C6-5D90-4C67-A14B-716BCE9B849B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA226A3D-FB9C-45F9-B86C-0A58A1458F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA226A3D-FB9C-45F9-B86C-0A58A1458F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA226A3D-FB9C-45F9-B86C-0A58A1458F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA226A3D-FB9C-45F9-B86C-0A58A1458F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
